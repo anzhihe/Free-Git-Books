@@ -24,4 +24,4 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Pro Git - Second Edition [[Download]](/book/Pro%20Git%20-%20Second%20Edition.pdf)
 * Professional Git [[Download]](/book/Professional%20Git.pdf)
 * Version Control with Git - Second Edition [[Download]](/book/Version%20Control%20with%20Git%20-%20Second%20Edition.pdf)
-* Starting and Scaling DevOps in the Enterprise - by Gary Gruver [[Download]](/book/Starting and Scaling DevOps in the Enterprise.pdf)
+* Starting and Scaling DevOps in the Enterprise - by Gary Gruver [[Download]](/book/Startingn%20andn%20Scalingn%20DevOpsn%20inn%20then%20Enterprise.pdf)
