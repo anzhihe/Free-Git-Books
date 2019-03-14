@@ -1,6 +1,6 @@
 # Free Git Books
 
-This is my personal collection of free git,gitlab,github books, feel free to share and read.
+This is my personal collection of free git gitlab github books, feel free to share and read.
 
 ## List of Books
 
