@@ -27,3 +27,22 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Starting and Scaling DevOps in the Enterprise - by Gary Gruver [[Download]](/book/Starting%20and%20Scaling%20DevOps%20in%20the%20Enterprise.pdf)
 * DevOps实践指南 [[Download]](/book/DevOps实践指南.pdf)
 * DevOps Handbook 2 [[Download]](/book/DevOps%20Handbook%202.pdf)
+
+---
+
+- [git官方文档](https://git-scm.com/docs)
+- [Git & Gitlab 学习资源分享](https://chegva.com/3138.html)
+- [git-简易指南](https://www.bootcss.com/p/git-guide/)
+- [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
+- [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+- [Git Workflows and Tutorials](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+- [Git基本工作命令-墙裂推荐](http://www.ndpsoftware.com/git-cheatsheet.html)
+- [Git在线练习-棒](https://learngitbranching.js.org/)
+- [Git工作使用](https://chegva.com/tag/git/)
+- [Git使用规范](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+- [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+- [Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
+- [Git分支创建与Git分支合并](http://www.ttlsa.com/linux/git-branch-create-merge/)
+- [Git Commit Message 规范](https://www.jianshu.com/p/48b276a59247)
+- [Git流程工具 git-flow 使用心得](https://www.jianshu.com/p/d530675f1102)
+- [自学Git，有哪些书籍或者好的学习资源？](https://www.zhihu.com/question/38008771)
