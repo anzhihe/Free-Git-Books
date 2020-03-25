@@ -39,6 +39,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 - [Git基本工作命令-墙裂推荐](http://www.ndpsoftware.com/git-cheatsheet.html)
 - [Git在线练习-棒](https://learngitbranching.js.org/)
 - [Git工作使用](https://chegva.com/tag/git/)
+- [Git使用手册](https://chegva.com/2102.html)
 - [Git使用规范](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 - [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 - [Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)
