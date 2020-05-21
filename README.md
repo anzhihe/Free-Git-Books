@@ -47,3 +47,4 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 - [Git Commit Message 规范](https://www.jianshu.com/p/48b276a59247)
 - [Git流程工具 git-flow 使用心得](https://www.jianshu.com/p/d530675f1102)
 - [自学Git，有哪些书籍或者好的学习资源？](https://www.zhihu.com/question/38008771)
+- [awesome-github](https://github.com/AntBranch/awesome-github)
