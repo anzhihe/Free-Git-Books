@@ -27,6 +27,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Starting and Scaling DevOps in the Enterprise - by Gary Gruver [[Download]](/book/Starting%20and%20Scaling%20DevOps%20in%20the%20Enterprise.pdf)
 * DevOps实践指南 [[Download]](/book/DevOps实践指南.pdf)
 * DevOps Handbook 2 [[Download]](/book/DevOps%20Handbook%202.pdf)
+* 阿里巴巴DevOps实践手册 [[Download]](/book/阿里巴巴DevOps实践手册.pdf)
 
 ---
 
