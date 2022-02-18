@@ -2,6 +2,8 @@
 
 This is my personal collection of free git gitlab github books, feel free to share and read.
 
+Books and materials are only for personal learning and use, and the copyright belongs to the original author. If there is any infringement, please contact me!（书籍和资料仅供个人学习使用，版权归原作者所有，如有侵权请联系我！）
+
 ## List of Books
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
