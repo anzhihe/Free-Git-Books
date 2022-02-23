@@ -53,3 +53,4 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 - [自学Git，有哪些书籍或者好的学习资源？](https://www.zhihu.com/question/38008771)
 - [awesome-github](https://github.com/AntBranch/awesome-github)
 - [DevOps体系案例学习](https://devops.phodal.com/home)
+- [GitHub 中文教程](https://www.w3cschool.cn/githubcn/)
