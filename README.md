@@ -27,6 +27,8 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Professional Git [[Download]](/book/Professional%20Git.pdf)
 * Version Control with Git - Second Edition [[Download]](/book/Version%20Control%20with%20Git%20-%20Second%20Edition.pdf)
 * Starting and Scaling DevOps in the Enterprise - by Gary Gruver [[Download]](/book/Starting%20and%20Scaling%20DevOps%20in%20the%20Enterprise.pdf)
+* Git从入门到实战 [[Download]](/book/Git从入门到实战.pdf)
+* 精通Git第二版 [[Download]](/book/精通Git第二版.pdf)
 * Git的奇技淫巧 [[Download]](/book/Git的奇技淫巧.pdf)
 * DevOps实践指南 [[Download]](/book/DevOps实践指南.pdf)
 * DevOps Handbook 2 [[Download]](/book/DevOps%20Handbook%202.pdf)
