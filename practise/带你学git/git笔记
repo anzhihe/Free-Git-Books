@@ -1,0 +1,157 @@
+不管遇到资料、学习问题，还是其他问题，我们都不要慌。
+先加群：567597134。找老司机帮忙
+
+项目管理工具
+		git：分布式
+		svn：集中式
+
+
+		git:用管理项目或代码的
+		github:代码仓库
+
+
+
+我把代码传到----->远程仓库---->在服务器上clone下来
+
+		  push         clone
+
+远程仓库：github、coding.net、   gitlab 用自己的服务器搭建的远程仓库
+
+		github、coding.net都有个私有仓库的一个概念
+
+
+
+Mac :brew 
+Linux: sudo apt install git
+
+
+本地仓库 git init
+
+查看状态 git status
+
+提交到暂存区 git  add xxx 或git add .
+提交到本地仓库 git commit -m '注释'
+
+
+git diff 文件  跟上一版本做对比
+
+git reset --hard  HEAD^ 退到上一版本
+
+
+git reset --hard 版本号 回到哪个版本
+
+
+https://coding.net/
+
+
+git log 和git reflog
+
+log  记录所有提交的版本信息，不包括删除commit的和reset的操作
+relog  记录所有的操作记录，包括提交、回退等操作
+
+
+
+
+
+
+
+
+一 、修改文件了 但是我没有加到暂存区
+
+	
+	单个文件撤销：git checkout -- 单个文件名字
+	全部撤销  git checkout .  
+
+
+
+
+
+二、修改文件了，我们已经到暂存区
+
+
+	本地仓库---->reset--->暂存区----->checkout---->工作环境
+
+
+
+	git reset HEAD  把本地仓库所有文件恢复到暂存区<--->撤销所有文件add操作
+
+	git reset HEAD  xxx.py   把本地仓库xxx.py文件恢复到暂存区<--->撤销单个文件add操作
+
+
+
+	单个文件撤销：git checkout -- 单个文件名字
+	全部撤销  git checkout . 
+
+
+
+
+
+三、修改文件，我们已经提交到本地仓库
+
+	git reset --hard 版本号   回到哪个版本
+
+
+
+git checkout 一定是最近一次commit或者add操作的状态
+
+
+
+
+恢复被删除的文件
+
+
+一、删除文件 没有提交到暂存区
+
+	单个文件撤销：git checkout -- 单个文件名字
+	全部撤销  git checkout .  
+
+
+
+
+二、删除文件 提交到暂存区
+
+
+
+三、删除文件 提交到本地仓库
+
+	git reset --hard 版本号   回到哪个版本
+
+
+
+
+
+关联远程仓库
+git remote add origin git@git.coding.net:xiaoxiaoyuan/blog.git
+
+
+
+
+git checkout -b  分支名字 创建并切换
+
+
+
+
+a分支
+	都看见爱上的空间
+b分支
+	git merge a
+
+
+git stash  冻结工作区
+
+
+git push origin 分支    把分支推到远程
+
+
+
+git pull 更新
+
+
+
+1、你的电脑配置仓库 coding.net github
+2、把的博客传递到远程仓库、在服务器上clone下来
+3、查询一下git忽略文件
+
+
+
+
